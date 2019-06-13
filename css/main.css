@@ -1,0 +1,22 @@
+.circle {
+    border: 20px solid gray;
+    background-image: url(../images/unnamed.jpg);
+    background-color: #ccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+
+.popstar {
+    color: gray;
+    position: absolute;
+    font-size: 68px;
+    font-family: Calibri;
+    font-weight: bold;
+    white-space: nowrap;
+    top: 15px;
+    left: 370px;
+}
